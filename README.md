@@ -1,2 +1,0 @@
-# project
-airline management system
